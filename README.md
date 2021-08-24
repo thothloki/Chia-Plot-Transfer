@@ -15,7 +15,6 @@ Edit the InputDrive and outputDrives to your drives. Keep the same syntax as sho
 If this helps you and you feel the urge to send a tip, I would greatly appreciate it:
 
 CHIA: xch17k9wthgpl2z4zru0jfh36pzrrzcepr86c3544tjmskxyrh4gxscqzr7az3
-
 Doge: D9Ktdo3G2wwT5MxjqG8uMTgiSHme6EwuSx
 
 LTC: MLSKq4kCmicEvbKL69GCMEpG1z3Gf53aZa or 3EEBXBLEpbkp863RzGGrXbZrhHSphG56DV
