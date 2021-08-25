@@ -1,10 +1,7 @@
 # Chia-Plot-Transfer
-This is a python script to transfer chia plots fromyour plot drive to your mining drive(s)<br>
-This script will get a list of your plot files on your plot drive and copy the files to your mining drives. <br>
-It will check your drives and make sure you have enough space abailable before it copies. <br>
-After it copies, it will delete the plot file from your plotting drive. <br>
-If your mining drive does not have the abailable space for the plot file, it will skip to the next mining drive.<br>
-Edit the InputDrive and outputDrives to your drives. Keep the same syntax as shown in the template python file.<br>
+This is a python script to transfer chia plots from your temp drive to your farming drive(s)<br>
+This script will get a list of your plot files on your temp drive and copy the files to your farming drives.<br>
+It will check your drives and make sure you have enough space available before it copies. After it copies, it will delete the plot file from your temp drive. If your mining drive does not have the available space for the plot file, it will skip to the next farming drive. Edit the InputDrive and outputDrives to your drives. Keep the same syntax as shown in the template python file.<br>
 <br>
 <br>
 
