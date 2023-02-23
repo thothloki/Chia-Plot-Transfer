@@ -11,7 +11,7 @@ Also added was a scan delay feature. On line 10, there is a scanDelay setting th
 
 If this helps you and you feel the urge to send a tip, I would greatly appreciate it:<br>
 <br>
-CHIA: xch17k9wthgpl2z4zru0jfh36pzrrzcepr86c3544tjmskxyrh4gxscqzr7az3<br>
+
 Doge: D9Ktdo3G2wwT5MxjqG8uMTgiSHme6EwuSx<br>
 LTC: MLSKq4kCmicEvbKL69GCMEpG1z3Gf53aZa or 3EEBXBLEpbkp863RzGGrXbZrhHSphG56DV<br>
 ETH: 0xb5BE93b2Dd57576395b0a12C96B99c768f2F05c4<br>
