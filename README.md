@@ -8,11 +8,3 @@ Version 2 now has an infinate loop. it does not end and continues to rescan afte
 Also added was a scan delay feature. On line 10, there is a scanDelay setting that you set to how many minutes you want to delay between scans <br>
 <br>
 <br>
-
-If this helps you and you feel the urge to send a tip, I would greatly appreciate it:<br>
-<br>
-
-Doge: D9Ktdo3G2wwT5MxjqG8uMTgiSHme6EwuSx<br>
-LTC: MLSKq4kCmicEvbKL69GCMEpG1z3Gf53aZa or 3EEBXBLEpbkp863RzGGrXbZrhHSphG56DV<br>
-ETH: 0xb5BE93b2Dd57576395b0a12C96B99c768f2F05c4<br>
-BTC: 3PaHhGqCxfJqfteayYPro7PNnfJvvvzU4b
